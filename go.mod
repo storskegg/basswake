@@ -2,9 +2,10 @@ module github.com/storskegg/basswake
 
 go 1.27.0
 
-require github.com/ebitengine/oto/v3 v3.4.1
+require github.com/ebitengine/oto/v3 v3.5.1
 
 require (
-	github.com/ebitengine/purego v0.9.0 // indirect
-	golang.org/x/sys v0.36.0 // indirect
+	github.com/ebitengine/purego v0.11.2 // indirect
+	github.com/jfreymuth/pulse v0.1.3 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 )
